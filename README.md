@@ -1,12 +1,12 @@
 # Yii2 AWS S3
 
-An Amazon S3 component for Yii2.
+An Amazon S3 component for Yii2 (PHP 8+).
 
-[![License](https://poser.pugx.org/bp-sys/yii2-aws-s3/license)](https://github.com/bp-sys/yii2-aws-s3/blob/2.x/LICENSE) [![Latest Stable Version](https://poser.pugx.org/bp-sys/yii2-aws-s3/v)](//packagist.org/packages/bp-sys/yii2-aws-s3) [![Total Downloads](https://poser.pugx.org/bp-sys/yii2-aws-s3/downloads)](//packagist.org/packages/bp-sys/yii2-aws-s3) [![Latest Unstable Version](https://poser.pugx.org/bp-sys/yii2-aws-s3/v/unstable)](//packagist.org/packages/bp-sys/yii2-aws-s3)
+[![License](https://poser.pugx.org/andrey-zhukovskiy/yii2-aws-s3/license)](https://github.com/andrey-zhukovskiy/yii2-aws-s3/blob/2.x/LICENSE) [![Latest Stable Version](https://poser.pugx.org/andrey-zhukovskiy/yii2-aws-s3/v)](//packagist.org/packages/andrey-zhukovskiy/yii2-aws-s3) [![Total Downloads](https://poser.pugx.org/andrey-zhukovskiy/yii2-aws-s3/downloads)](//packagist.org/packages/andrey-zhukovskiy/yii2-aws-s3) [![Latest Unstable Version](https://poser.pugx.org/andrey-zhukovskiy/yii2-aws-s3/v/unstable)](//packagist.org/packages/andrey-zhukovskiy/yii2-aws-s3)
 
 > Yii2 AWS S3 uses [SemVer](http://semver.org/).
 
-> Version 2.x requires PHP 7. For PHP less 7.0 use [1.x](https://github.com/bp-sys/yii2-aws-s3/tree/1.x).
+> Version 2.x requires PHP 7 - 8. For PHP less 7.0 use [1.x](https://github.com/andrey-zhukovskiy/yii2-aws-s3/tree/1.x).
 
 ## About this project
 
@@ -21,7 +21,7 @@ We will also add support for easier integration with your models, by adding a S3
 1. Run the [Composer](http://getcomposer.org/download/) command to install the latest version:
 
     ```bash
-    composer require bp-sys/yii2-aws-s3 ~2.0
+    composer require andrey-zhukovskiy/yii2-aws-s3 ~2.0
     ```
 
 2. Add the component to `config/main.php`
